@@ -1,2 +1,4 @@
-feature from f3
-auto merge testing from f3
+git commit on f3-1
+git commit on f3-2
+git commit on f3-3
+git commit on f3-4
